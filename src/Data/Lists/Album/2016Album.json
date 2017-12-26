@@ -1,0 +1,171 @@
+{
+    "Year": "2016",
+    "StrictRank": true,
+    "Mentions": [
+      {
+        "ArtistName": "Clipping",
+        "AlbumName": "Wriggle",
+        "ImageName": "Wriggle",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "David Bowie",
+        "AlbumName": "Black Star",
+        "ImageName": "BlackStar",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Kendrick Lamar",
+        "AlbumName": "Untitled",
+        "ImageName": "untitled",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Modest Mouse",
+        "AlbumName": "Night on the Sun",
+        "ImageName": "NightOnTheSun",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "NxWorries",
+        "AlbumName": "Yes Lawd!",
+        "ImageName": "NxWorries",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Various Artists",
+        "AlbumName": "Day of the Dead",
+        "ImageName": "DayDead",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Will Butler",
+        "AlbumName": "Friday Night",
+        "ImageName": "FridayNight",
+        "SongUrl": ""
+      }
+    ],
+    "Ranked": [
+        {
+            "Artistname": "Mick Jenkins",
+            "AlbumName": "The Healing Component",
+            "ImageName": "HealingComponent",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Wilco",
+            "AlbumName": "Schmilco",
+            "ImageName": "schmilco",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "BJ the Chicago Kid",
+            "AlbumName": "In My Mind",
+            "ImageName": "InMyMind",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Atmosphere",
+            "AlbumName": "Fishing Blues",
+            "ImageName": "FishingBlues",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "James Blake",
+            "AlbumName": "The Colour In Anything",
+            "ImageName": "ColorAnAnything",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Animal Collective",
+            "AlbumName": "Painting With",
+            "ImageName": "PaintingWith",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Frank Ocean",
+            "AlbumName": "Blond",
+            "ImageName": "Blond",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Tribe Called Quest",
+            "AlbumName": "We got it from Here… Thank You 4 Your service",
+            "ImageName": "WeGotItFromHere",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Justice",
+            "AlbumName": "Woman",
+            "ImageName": "Woman",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Open Mike Eagle",
+            "AlbumName": "Hella Personal Film Festival",
+            "ImageName": "HellaPersonal",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Anderson Paak",
+            "AlbumName": "Malibu",
+            "ImageName": "Malibu",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Clipping",
+            "AlbumName": "Splendor & Misery",
+            "ImageName": "SplendorMisery",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Danny Brown",
+            "AlbumName": "Atrocity Exhibition",
+            "ImageName": "AtrocityExhibition",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Childish Gambino",
+            "AlbumName": "Awaken, My Love",
+            "ImageName": "AwakenMyLove",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Radiohead",
+            "AlbumName": "A Moon Shaped Pool",
+            "ImageName": "MoonShaped",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Run The Jewels",
+            "AlbumName": "Run The Jewels 3",
+            "ImageName": "rtj3",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Bon Iver",
+            "AlbumName": "22, A Million",
+            "ImageName": "22amillion",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Chance the Rapper",
+            "AlbumName": "Chance 3 (Coloring Book)",
+            "ImageName": "Chance3",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Kanye",
+            "AlbumName": "The Life Of Pablo",
+            "ImageName": "tlop",
+            "SongUrl": ""
+          },
+          {
+            "Artistname": "Aesop Rock",
+            "AlbumName": "The Impossible Kid",
+            "ImageName": "ImpossibleKid",
+            "SongUrl": ""
+          }
+    ]
+  }
+  

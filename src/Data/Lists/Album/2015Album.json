@@ -1,0 +1,128 @@
+{
+  "Year": "2015",
+  "StrictRank": true,
+  "Mentions": [
+    {
+      "ArtistName": "Ryan Adams",
+      "AlbumName": "1989",
+      "ImageName": "1989",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Alabama Shakes",
+      "AlbumName": "Sound & Color",
+      "ImageName": "SoundAndColor",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Stoop Kids",
+      "AlbumName": "Already Out of Time",
+      "ImageName": "AlreadyOutOfTime",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Sufjan Stevens",
+      "AlbumName": "Carrie & Lowell",
+      "ImageName": "CarrieAndLowell",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Kurt Vile",
+      "AlbumName": "B'live I'm G,oin Down...",
+      "ImageName": "BlievImGoinDown",
+      "SongUrl": ""
+    }
+  ],
+  "Ranked": [
+    {
+      "ArtistName": "Mark Ronson",
+      "AlbumName": "Uptown Special",
+      "ImageName": "UptownSpecial",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Adele",
+      "AlbumName": "25",
+      "ImageName": "25",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Dan Deacon",
+      "AlbumName": "Gliss Riffer",
+      "ImageName": "GlissRiffer",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Disclosure",
+      "AlbumName": "Caracal",
+      "ImageName": "Caracal",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Grimes",
+      "AlbumName": "Art Angels",
+      "ImageName": "ArtAngels",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Will Butler",
+      "AlbumName": "Policy",
+      "ImageName": "Policy",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Wilco",
+      "AlbumName": "Star Wars",
+      "ImageName": "StarWars",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Punch Brothers",
+      "AlbumName": "The Phosphorescent Blues",
+      "ImageName": "ThePhosphorescentBlues",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Donnie Trumpet & The Social Experiment",
+      "AlbumName": "Surf",
+      "ImageName": "Surf",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Father John Misty",
+      "AlbumName": "I Love You Honey Bear",
+      "ImageName": "ILoveYouHoneyBear",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Kendrick Lamar",
+      "AlbumName": "To Pimp a Butterfly",
+      "ImageName": "ToPimpAButterfly",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Tame Impala",
+      "AlbumName": "Currents",
+      "ImageName": "Currents",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Raury",
+      "AlbumName": "All We Need",
+      "ImageName": "AllWeNeed",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "The Decemberists",
+      "AlbumName": "What a Terrible World, What a Beautiful World",
+      "ImageName": "WhatATerribleWorld",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Modest Mouse",
+      "AlbumName": "Strangers to Ourselves",
+      "ImageName": "StrangersToOurselves",
+      "SongUrl": ""
+    }
+  ]
+}

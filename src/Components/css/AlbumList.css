@@ -1,0 +1,31 @@
+.MentionsH1 {
+    width: 100%;
+    height: 10%;
+    font-size: 5em;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    text-shadow: rgba(0, 0, 0, 0.3) -1px -1px 0px;
+    font-weight: 500;
+}
+
+.MentionsH1Half {
+    width: 100%;
+    height: 10%;
+    font-size: 3em;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    text-shadow: rgba(0, 0, 0, 0.3) -1px -1px 0px;
+    font-weight: 500;
+}
+
+.MentionsH2 {
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    text-shadow: rgba(0, 0, 0, 0.3) -1px -1px 0px;
+    font-weight: 500;
+}

@@ -1,0 +1,95 @@
+{
+  "Year": "2014",
+  "StrictRank": true,
+  "Mentions": [
+    {
+      "AlbumName": "Bestiary [Explicit]",
+      "ArtustName": "Hail Mary Mallon (Aesop Rock + Rob Sonic)",
+      "ImageName": "Bestiary",
+      "SongUrl": ""
+    },
+
+    {
+      "AlbumName": "Sparks",
+      "ArtustName": "Imogen Heap",
+      "ImageName": "Sparks",
+      "SongUrl": ""
+    },
+
+    {
+      "AlbumName": "Sadnecessary",
+      "ArtustName": "Milky Chance",
+      "ImageName": "Sadnecessary",
+      "SongUrl": ""
+    },
+
+    {
+      "AlbumName": "Mr. Noah (EP)",
+      "ArtustName": "Panda Bear",
+      "ImageName": "MrNoah",
+      "SongUrl": ""
+    }
+  ],
+  "Ranked": [
+    {
+      "AlbumName": "So Long See You Tomorrow ",
+      "ArtistName": "Bombay Bicycle Club",
+      "ImageName": "SoLongSeeYouTomorrow",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "St. Vincent",
+      "ArtistName": "St. Vincent ",
+      "ImageName": "StVincent",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "After The Disco",
+      "ArtistName": "Broken Bells",
+      "ImageName": "AfterTheDisco",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Our Love",
+      "ArtistName": "Caribou",
+      "ImageName": "OurLove",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Hold My Home",
+      "ArtistName": "Cold War Kids ",
+      "ImageName": "HoldMyHome",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Perfect Hair [Explicit]",
+      "ArtistName": "Busdriver ",
+      "ImageName": "PerfectHair",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Singles",
+      "ArtistName": "Future Islands ",
+      "ImageName": "Singles",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "CLPPING [Explicit]",
+      "ArtistName": "Clipping. ",
+      "ImageName": "CLPPNG",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Nikki Nack",
+      "ArtistName": "tUnE-yArDs ",
+      "ImageName": "NikkiNack",
+      "SongUrl": ""
+      },
+    {
+      "AlbumName": "Seeds",
+      "ArtistName": "TV On The Radio ",
+      "ImageName": "Seeds",
+      "SongUrl": ""
+      }
+  ]
+}

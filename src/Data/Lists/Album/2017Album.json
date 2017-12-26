@@ -1,0 +1,186 @@
+{
+  "Year": "2017",
+  "StrictRank": false,
+  "Mentions": [
+    {
+      "ArtistName": "Animal Collective",
+      "AlbumName": "The Painters EP",
+      "ImageName": "ThePainters",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Radiohead",
+      "AlbumName": "OKNOTOK",
+      "ImageName": "OKNOTOK",
+      "SongUrl": ""
+    },
+    {
+      "ArtistName": "Dan Deacon",
+      "AlbumName": "Rat Film",
+      "ImageName": "RatFilm",
+      "SongUrl": ""
+    }
+  ],
+  "Ranked": [
+    [
+      {
+        "ArtistName": "Aimee Man",
+        "AlbumName": "Mental Illness",
+        "ImageName": "MentalIllness",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Cold War Kids",
+        "AlbumName": "L.A. Divine",
+        "ImageName": "LaDivine",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "David Bazan",
+        "AlbumName": "Care",
+        "ImageName": "Care",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Gorillaz",
+        "AlbumName": "Humanz",
+        "ImageName": "Humanz",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Sufjan Stevens",
+        "AlbumName": "Planetarium",
+        "ImageName": "Planetarium",
+        "SongUrl": ""
+      }
+    ],
+    [
+      {
+        "ArtistName": "Alt-J",
+        "AlbumName": "RELAXER",
+        "ImageName": "Relaxer",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "The Killers",
+        "AlbumName": "Wonderful Wonderful",
+        "ImageName": "WonderfulWonderful",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Queens Of The Stoneage",
+        "AlbumName": "Villains",
+        "ImageName": "Villians",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Ryan Adams",
+        "AlbumName": "Prisoner",
+        "ImageName": "Prisoner",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Vic Mensa",
+        "AlbumName": "The Autobiography",
+        "ImageName": "Autobiography",
+        "SongUrl": ""
+      }
+    ],
+    [
+      {
+        "ArtistName": "Grizzly Bear",
+        "AlbumName": "Painted Ruins",
+        "ImageName": "PaintedRuins",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Jidenna",
+        "AlbumName": "The Chief",
+        "ImageName": "Chief",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Logic",
+        "AlbumName": "Everybody",
+        "ImageName": "Everybody",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "The Shins",
+        "AlbumName": "Heartworms",
+        "ImageName": "Heartworms",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Tyler The Creator",
+        "AlbumName": "Flower Boy",
+        "ImageName": "FlowerBoy",
+        "SongUrl": ""
+      }
+    ],
+    [
+      {
+        "ArtistName": "Calvin Harris",
+        "AlbumName": "Funk Wav Bounces Vol. 1",
+        "ImageName": "FunkWavBounces",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Father John Misty",
+        "AlbumName": "Pure Comedy",
+        "ImageName": "PureComedy",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "LCD Soundsystem",
+        "AlbumName": "American Dream",
+        "ImageName": "AmericanDream",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "The National",
+        "AlbumName": "Sleep Well Beast",
+        "ImageName": "SleepWellBeast",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "St. Vincent",
+        "AlbumName": "MASSEDUCATION",
+        "ImageName": "MassEducation",
+        "SongUrl": ""
+      }
+    ],
+    [
+      {
+        "ArtistName": "Arcade Fire",
+        "AlbumName": "Everything Now",
+        "ImageName": "EverythingNow",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Kendrick Lamar",
+        "AlbumName": "DAMN.",
+        "ImageName": "Damn",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Open Mike Eagle",
+        "AlbumName": "Brick Body Kids Still Daydreaming",
+        "ImageName": "BrickBody",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Portugal. The Man",
+        "AlbumName": "Woodstock",
+        "ImageName": "Woodstock",
+        "SongUrl": ""
+      },
+      {
+        "ArtistName": "Vince Staples",
+        "AlbumName": "Big Fish Theory",
+        "ImageName": "BigFishTheory",
+        "SongUrl": ""
+      }
+    ]
+  ]
+}
