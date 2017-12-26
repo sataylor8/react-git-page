@@ -1,5 +1,5 @@
 import * as React from 'react';
-import "./css/Main.css";
+import './css/Main.css';
 
 export interface ConcertListProps {
   data: any

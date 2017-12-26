@@ -2,7 +2,7 @@
   "name": "personal-site-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sataylor8.github.io",
+  "homepage": "http://sataylor8.github.io/react-git-page",
   "dependencies": {
     "@types/prop-types": "^15.5.2",
     "office-ui-fabric-react": "^5.35.2",
