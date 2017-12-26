@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://sataylor8.github.io",
   "dependencies": {
+    "@types/prop-types": "^15.5.2",
     "office-ui-fabric-react": "^5.35.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
