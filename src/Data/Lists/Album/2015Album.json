@@ -6,31 +6,31 @@
       "ArtistName": "Ryan Adams",
       "AlbumName": "1989",
       "ImageName": "1989",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=pcJ_ECyEK4I"
     },
     {
       "ArtistName": "Alabama Shakes",
       "AlbumName": "Sound & Color",
       "ImageName": "SoundAndColor",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=x-5OX7CO26c"
     },
     {
       "ArtistName": "Stoop Kids",
       "AlbumName": "Already Out of Time",
       "ImageName": "AlreadyOutOfTime",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=1spzMNMe0Rg"
     },
     {
       "ArtistName": "Sufjan Stevens",
       "AlbumName": "Carrie & Lowell",
       "ImageName": "CarrieAndLowell",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=dsGODTySH0E"
     },
     {
       "ArtistName": "Kurt Vile",
       "AlbumName": "B'live I'm G,oin Down...",
       "ImageName": "BlievImGoinDown",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=y26OdHnif7U"
     }
   ],
   "Ranked": [
@@ -38,7 +38,7 @@
       "ArtistName": "Mark Ronson",
       "AlbumName": "Uptown Special",
       "ImageName": "UptownSpecial",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=T3nVshJyXUU"
     },
     {
       "ArtistName": "Adele",
@@ -50,79 +50,79 @@
       "ArtistName": "Dan Deacon",
       "AlbumName": "Gliss Riffer",
       "ImageName": "GlissRiffer",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=PudSpoy_AMA"
     },
     {
       "ArtistName": "Disclosure",
       "AlbumName": "Caracal",
       "ImageName": "Caracal",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=b_KfnGBtVeA"
     },
     {
       "ArtistName": "Grimes",
       "AlbumName": "Art Angels",
       "ImageName": "ArtAngels",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=FC__kVXN4oo"
     },
     {
       "ArtistName": "Will Butler",
       "AlbumName": "Policy",
       "ImageName": "Policy",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=0xZxpd23iuU"
     },
     {
       "ArtistName": "Wilco",
       "AlbumName": "Star Wars",
       "ImageName": "StarWars",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=v81vhGTzXKE"
     },
     {
       "ArtistName": "Punch Brothers",
       "AlbumName": "The Phosphorescent Blues",
       "ImageName": "ThePhosphorescentBlues",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=0dzDXJJSVEc"
     },
     {
       "ArtistName": "Donnie Trumpet & The Social Experiment",
       "AlbumName": "Surf",
       "ImageName": "Surf",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=KMPTDBbsPnc"
     },
     {
       "ArtistName": "Father John Misty",
       "AlbumName": "I Love You Honey Bear",
       "ImageName": "ILoveYouHoneyBear",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=A6NuYJ0RzRg"
     },
     {
       "ArtistName": "Kendrick Lamar",
       "AlbumName": "To Pimp a Butterfly",
       "ImageName": "ToPimpAButterfly",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=s0QtdISwioc"
     },
     {
       "ArtistName": "Tame Impala",
       "AlbumName": "Currents",
       "ImageName": "Currents",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=hefh9dFnChY"
     },
     {
       "ArtistName": "Raury",
       "AlbumName": "All We Need",
       "ImageName": "AllWeNeed",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=rMJUNyFZysw"
     },
     {
       "ArtistName": "The Decemberists",
       "AlbumName": "What a Terrible World, What a Beautiful World",
       "ImageName": "WhatATerribleWorld",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=UiS2rwOSR8I"
     },
     {
       "ArtistName": "Modest Mouse",
       "AlbumName": "Strangers to Ourselves",
       "ImageName": "StrangersToOurselves",
-      "SongUrl": ""
+      "SongUrl": "https://www.youtube.com/watch?v=ztdoHfbTRsk"
     }
   ]
 }
